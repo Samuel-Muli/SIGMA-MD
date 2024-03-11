@@ -385,10 +385,10 @@ Module_Exports(
         kingpath: __filename
     },
     async(sigma, citel, text) => {
-      if (!text) return citel.reply(`*_Give Me Some Text, Ex: ${prefix}fancy sigma-md_*`)
+      if (!text) return citel.reply(`*_Give Me Some Text, Ex: ${prefix}fancy Lost_Boy🦜-md_*`)
         if (!text) {
             let helpText = tiny(
-                `*_fancy text generator_*\n★━━━━━━━━━━━━━━━━━━━━━★\n*example: ${prefix}fancy sigma _i am sigma male_*\n★━━━━━━━━━━━━━━━━━━━━━★\n\n`
+                `*_fancy text generator_*\n★━━━━━━━━━━━━━━━━━━━━━★\n*example: ${prefix}fancy sigma _i am Lost_Boy🦜 male_*\n★━━━━━━━━━━━━━━━━━━━━━★\n\n`
             );
             listall(text).forEach((txt, num) => {
                 helpText += `${(num += 1)} ${txt}\n`;
@@ -398,7 +398,7 @@ Module_Exports(
 
         if (isNaN(text.split(" ")[0])) {
             let helpText = tiny(
-                `*_fancy text generator_*\n★━━━━━━━━━━━━━━━━━━━━━★\n*example: ${prefix}fancy 32 _i am sigma male_*\n★━━━━━━━━━━━━━━━━━━━━━★\n\n`
+                `*_fancy text generator_*\n★━━━━━━━━━━━━━━━━━━━━━★\n*example: ${prefix}fancy 32 _i am Lost_Boy🦜 male_*\n★━━━━━━━━━━━━━━━━━━━━━★\n\n`
             );
             listall(text).forEach((txt, num) => {
                 helpText += `${(num += 1)} ${txt}\n`;
