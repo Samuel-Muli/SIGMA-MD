@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting SIGMA-MD..."
+echo "Starting Lost_Boy🦜..."
 node lib/client.js
 done

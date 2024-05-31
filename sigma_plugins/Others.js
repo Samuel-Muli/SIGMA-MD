@@ -51,7 +51,7 @@ function _0x3396(_0x5e30fc,_0x3484a4){var _0xb2f415=_0x61cf();return _0x3396=fun
     Module_Exports({
         kingcmd: "timenow",
     shortcut: ["tnow"],
-        infocmd: "Show Live Time Of Pakistan",
+        infocmd: "Show Live Time Of Kenya",
         kingclass: "general",
           kingpath: __filename,
         use: '',
@@ -80,9 +80,9 @@ message: {
        "itemCount" : Zubair[Math.floor(8*Math.random())],
        "status": 1,
        "surface" : 1,
-       "message": `❏ ${snam}\nᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ`,
+       "message": `❏ ${snam}\nᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ Samuel Muli`,
        "orderTitle": "alive",
-       "sellerJid": '923466319114@s.whatsapp.net' 
+       "sellerJid": '254705244235@s.whatsapp.net' 
     }
   }
 }
